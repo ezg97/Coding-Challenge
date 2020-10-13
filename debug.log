@@ -1,0 +1,3 @@
+[1011/172729.464:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Elijah\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0ca05408-05f6-4d34-97e0-289324309374: The system cannot find the path specified. (0x3)
+[1011/172729.467:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Elijah\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ff96b5de-2849-46c4-8296-13e99c28fe03: The system cannot find the path specified. (0x3)
+[1011/172729.468:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
